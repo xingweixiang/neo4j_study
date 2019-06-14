@@ -6,5 +6,5 @@
 ### 1. 在数据模块的ogm.properties文件中设置数据库驱动程序、URI等
 ### 2. 启动web模块的WebApplication应用程序
 ### 3. http://localhost 进入系统
-![首页](index.png)<br>
+![首页](index.jpg)<br>
 ![图关系](neo4j.png)
